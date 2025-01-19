@@ -7,5 +7,5 @@ My experience combines DevOps + Full-stack + cloud engineering. It is a powerful
 ## Contacts
 
 - https://www.linkedin.com/in/victor-trapenok/
-- Levhav@yandex.ru
+- Levhav@yandex.com
 - https://t.me/levhav
